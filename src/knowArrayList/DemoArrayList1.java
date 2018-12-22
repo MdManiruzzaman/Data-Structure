@@ -21,6 +21,11 @@ public class DemoArrayList1 {
 
         //displaying elements
         //System.out.println(alist);
+
+
+
+
+        //fsdftujygkfufdretxhyftgkfuj5htwadfkytrt
     }
 
 
